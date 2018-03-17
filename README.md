@@ -1,4 +1,4 @@
-# pocket_monitor
+# curing chamber monitor (ccm): 养护室监控
 ## Code flow:
 ### urls -> db.urls -> db.views -> db.serializers -> db.models
 1. urls: expose urls
